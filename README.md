@@ -1,19 +1,26 @@
-# age-calculator
+# Age Calculator
 
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
-
-> Precise age calculator — years, months, days, and milestone tracker
+Enter your date of birth and get your exact age — years, months, days, hours, and minutes.
 
 ## Features
-- 🎂 Precise age in years, months, and days
-- 📅 Total days, hours, and minutes lived
-- 📆 Day of the week you were born
-- 🎯 Countdown to next birthday
-- 🏆 Milestone tracker (1,000 / 10,000 / 50,000 days)
+
+- Precise age breakdown: years, months, days, hours, minutes
+- Days until next birthday
+- Total days, weeks, hours, minutes lived
+- Notable milestones (1000 days, 10000 days, etc.)
+- Supports any birth date from 1900 onward
+
+## Stack
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178c6?style=flat&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61dafb?style=flat&logo=react&logoColor=black)
+![Vite](https://img.shields.io/badge/Vite-646cff?style=flat&logo=vite&logoColor=white)
+
+## Run locally
 
 ```bash
 npm install && npm run dev
 ```
 
-## License
-[MIT](LICENSE)
+---
+Made by [9bzero](https://github.com/9bzero)
